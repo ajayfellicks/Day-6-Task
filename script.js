@@ -107,7 +107,7 @@ console.log(obj3.Radius);
 console.log(obj3.color);
 console.log(obj3.toString);
 console.log(obj3.area);
-console.log(obj3.circumference);
+console.log(obj3.circumference)
 
 */
 
