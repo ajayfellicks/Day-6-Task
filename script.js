@@ -46,7 +46,7 @@ class movieThree {
 }
 const movies = [
   new movie("Glass Onion", "Lionsgate", "PG­13"),
-  new movie("shrek", "DreamWorks Pictures", "PG"),
+  new movie("shrek", "DreamWorks Pictures"),
   new movie("Casino Royale", "Eon Productions", "PG­13"),
 ];
 
