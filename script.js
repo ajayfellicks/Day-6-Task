@@ -50,6 +50,9 @@ const movies = [
   new movie("Casino Royale", "Eon Productions", "PG­13"),
 ];
 
+const pgMovie = movieThree.getPG(movies);
+console.log(pgMovie);
+
 //d) Write a piece of code that creates
 //an instance of the class Movie with the
 //title “Casino Royale”, the studio “Eon Productions”,
