@@ -138,4 +138,3 @@ const obj4 = new Person(
 );
 
 console.log(obj4);
-//
